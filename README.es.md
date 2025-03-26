@@ -39,7 +39,7 @@ Sigue las siguientes instrucciones:
 
 
 > Solución: https://github.com/4GeeksAcademy/visualization-exercises-with-matplot-and-seaborn
-/blob/main/notebook/solutions.ipynb
+/blob/main/notebook/solutions.es.ipynb
 
 
 ## 🚛 Cómo entregar este proyecto
