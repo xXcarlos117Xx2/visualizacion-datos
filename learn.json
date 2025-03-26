@@ -1,13 +1,11 @@
 {
-    "gitpod": true,
     "title": {
         "us": "Visualization Exercises with Matplotlib and Seaborn",
         "es": "Ejercicios de Visualización con Matplotlib y Seaborn"
     },
     "slug": "visualization-exercises-with-matplot-and-seaborn",
-    "preview": "https://github.com/4GeeksAcademy/visualization-exercises-with-matplot-and-seaborn/blob/main/preview.jpeg",
+    "preview": "https://github.com/4GeeksAcademy/visualization-exercises-with-matplot-and-seaborn/blob/main/assets/preview.png?raw=true",
     "solution": "https://github.com/breatheco-de/visualization-exercises-with-matplot-and-seaborn/blob/main/notebook/solutions.ipynb",
-    "status": "published",
     "translations": ["es", "us"],
     "technologies": ["matplotlib", "seaborn", "python", "data visualization"],
     "difficulty": "beginner",
@@ -22,5 +20,6 @@
     },
     "telemetry": {
         "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=357"
-    }
+    },
+    "gitpod": true
 }
